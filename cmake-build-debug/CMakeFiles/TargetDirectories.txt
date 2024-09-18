@@ -1,0 +1,3 @@
+C:/Users/veron/CLionProjects/summerproj/cmake-build-debug/CMakeFiles/summerproj.dir
+C:/Users/veron/CLionProjects/summerproj/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/veron/CLionProjects/summerproj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
