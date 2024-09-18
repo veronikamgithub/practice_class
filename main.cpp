@@ -10,7 +10,7 @@ Car::Car(string brand, int year, int miles){
 
 
 int main(){
-    Car car1("por", 4,2 );
+    Car car1("porsche", 4,2 );
     car1.rest_of_info();
     return 0;
 }
